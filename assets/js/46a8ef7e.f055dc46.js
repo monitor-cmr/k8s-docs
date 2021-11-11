@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkk_8_s_repo=self.webpackChunkk_8_s_repo||[]).push([[289],{4499:function(s){s.exports=JSON.parse('{"allTagsPath":"/k8s-docs/blog/tags","slug":"/k8s-docs/blog/tags/facebook","name":"facebook","count":1,"permalink":"/k8s-docs/blog/tags/facebook"}')}}]);

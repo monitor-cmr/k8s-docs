@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkk_8_s_repo=self.webpackChunkk_8_s_repo||[]).push([[976],{7371:function(s){s.exports=JSON.parse('{"allTagsPath":"/k8s-docs/blog/tags","slug":"/k8s-docs/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/k8s-docs/blog/tags/docusaurus"}')}}]);
